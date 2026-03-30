@@ -4,4 +4,4 @@ while(level){
 	domlevel++;
 	level=level.parentElement;
 }
-alert(`The level of the element is: ${domlevel});
+alert(`The level of the element is: ${domlevel}`);
